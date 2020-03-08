@@ -2,12 +2,10 @@
 
 Entire code is divided into the following libraries with each containing different modules or functions
 # 1. cifar10_data_provider.py
+Contains methods to download the data, split them into train and test and provide loaders and also to display sample images.
 
-  download_data()
-  Defines transforms and downloads the data with the transforms applied.
-  
-  get_train_test_loaders()
-  Splits the data and returns train_loader and test_loader
-  
-  display()
-  Displays sample data
+# 2. my_trainer.py
+Contains methods to to define train and test functions, run method which calls train and test methods for the specified epochs and display method to display the losses and accuracies.
+
+# 3. my_model.py
+Contains the model class definition which can be used to create the model object from the main script.
