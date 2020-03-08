@@ -9,3 +9,6 @@ Contains methods to to define train and test functions, run method which calls t
 
 # 3. my_model.py
 Contains the model class definition which can be used to create the model object from the main script.
+
+# 4. S7_Nagaraj_Work_modular.ipynb
+Main script which loads the other libraries and call the methods to load data, define network, train, test and finally plot the loss and accuracy graphs.
