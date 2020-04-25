@@ -1,4 +1,3 @@
-./data/customdata/images/img001.jpg
 ./data/customdata/images/01DM_b.jpg
 ./data/customdata/images/0_15ce0a1f-4ee0-4f35-95db-8bc042822519.jpg
 ./data/customdata/images/110581262-phetcharburi-thailand-august-14-2018-soft-focus-on-cartoon-model-doraemon-and-nobita-from-doraemon-s.jpg
